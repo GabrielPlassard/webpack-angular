@@ -13,7 +13,7 @@
     "angular": "^1.5.8"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "copy-webpack-plugin": "^3.0.1",
     "karma": "^1.2.0",
     "mocha": "^3.0.2",
